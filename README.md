@@ -6,14 +6,18 @@ Overview of Election Audit
 This project is an analysis of the data that resulted from a recent election in Colorado. The election included three candidates. Votes were received from three different counties. An analysis of the data revealed the winning candidate, total number of votes, number of votes per candidate as well as the county with the most votes submitted. The analysis was conducted using Python and Visual Studio Code.
 
 
-Election-Audit Results: 
+Election-Audit Results
 
 The results from the election are as follows:
 
 Votes
+
 •	Total Number of Votes: 369,711
+
 County votes by number and percentage
+
 •	Jefferson county, 38,855 votes, 10.5% of votes
+
 •	Denver county, 306,055 votes, 82.8% of votes
 •	Arapahoe county, 24,801, 6.7% of votes
 County with the largest number of votes
