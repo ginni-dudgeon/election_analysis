@@ -7,41 +7,44 @@ This project is an analysis of the data that resulted from a recent election in 
 
 
 
+
+
 Election-Audit Results
 
 The results from the election are as follows:
 
 Votes
 
-•	Total Number of Votes: 369,711
+  •	Total Number of Votes: 369,711
 
 County votes by number and percentage
 
-•	Jefferson county, 38,855 votes, 10.5% of votes
+  •	Jefferson county, 38,855 votes, 10.5% of votes
 
-•	Denver county, 306,055 votes, 82.8% of votes
+  •	Denver county, 306,055 votes, 82.8% of votes
 
-•	Arapahoe county, 24,801, 6.7% of votes
+  •	Arapahoe county, 24,801, 6.7% of votes
 
 County with the largest number of votes
 
-•	Denver
+  •	Denver
 
 Candidates
 
-•	Charles Casper Stockham received 23.0% of votes which was 85,213 total votes.
+  •	Charles Casper Stockham received 23.0% of votes which was 85,213 total votes.
 
-•	Diana DeGette received 73.8% of votes which was 272,892 total votes.
+  •	Diana DeGette received 73.8% of votes which was 272,892 total votes.
 
-•	Raymon Anthony Doane received 3.1% of the votes which was 11,606 total votes.
+  •	Raymon Anthony Doane received 3.1% of the votes which was 11,606 total votes.
 
 Winning Candidate
 
-•	Diana DeGette
+  •	Diana DeGette
 
-•	Total vote count: 272,892
+  •	Total vote count: 272,892
 
-•	Percentage of votes received: 73.8%
+  •	Percentage of votes received: 73.8%
+
 
 
 
